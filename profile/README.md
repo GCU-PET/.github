@@ -21,8 +21,8 @@ We aim to develop a system that analyzes abnormal behaviors or emotions in pets 
 # Techniques
 <img src="https://github.com/GCU-PET/PET_wiki/assets/112566149/4114fb96-7983-4559-bcaa-b842bce73d24" width="40%" height="40%">
 
-> Flask server (YOLOv8)
-https://github.com/GCU-PET/flask/wiki/Flask-Wiki
+>For detailed information on each repository, please refer to the wiki page link below.  
+https://github.com/GCU-PET/PET_wiki/wiki
 
 # Overall Structure
 The overall structure is as follows :    
@@ -42,9 +42,6 @@ As shown in the above image,
 * The classified data is then stored on the server, and the stored data is made available for user verification through the app.
 
 ***
-
-For detailed information on each repository, please refer to the wiki page link below.
-https://github.com/GCU-PET/PET_wiki/wiki
 
 # DEMO
 https://www.youtube.com/watch?v=30CmUwYl45s
