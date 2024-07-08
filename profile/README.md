@@ -42,7 +42,6 @@ As shown in the above image,
 * The classified data is then stored on the server, and the stored data is made available for user verification through the app.
 
 ***
-***
 
 For detailed information on each repository, please refer to the wiki page link below.
 https://github.com/GCU-PET/PET_wiki/wiki
